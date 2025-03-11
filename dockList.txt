@@ -1,0 +1,32 @@
+Activity Monitor	file:///System/Applications/Utilities/Activity%20Monitor.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.ActivityMonitor
+Terminal	file:///System/Applications/Utilities/Terminal.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.Terminal
+TextEdit	file:///System/Applications/TextEdit.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.TextEdit
+Messages	file:///System/Applications/Messages.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.MobileSMS
+Mail	file:///System/Applications/Mail.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.mail
+Safari	file:///System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.Safari
+Calendar	file:///System/Applications/Calendar.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.iCal
+Photos	file:///System/Applications/Photos.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.Photos
+Notes	file:///System/Applications/Notes.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.Notes
+Freeform	file:///System/Applications/Freeform.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.freeform
+Image Playground	file:///System/Applications/Image%20Playground.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.GenerativePlaygroundApp
+Maps	file:///System/Applications/Maps.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.Maps
+Visual Studio Code	file:///Applications/Visual%20Studio%20Code.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.microsoft.VSCode
+Obsidian	file:///Applications/Obsidian.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	md.obsidian
+Microsoft Word	file:///Applications/Microsoft%20Word.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.microsoft.Word
+Microsoft Excel	file:///Applications/Microsoft%20Excel.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.microsoft.Excel
+Microsoft PowerPoint	file:///Applications/Microsoft%20PowerPoint.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.microsoft.Powerpoint
+Microsoft Teams	file:///Applications/Microsoft%20Teams.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.microsoft.teams2
+Slack	file:///Applications/Slack.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.tinyspeck.slackmacgap
+Signal	file:///Applications/Signal.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	org.whispersystems.signal-desktop
+Discord	file:///Applications/Discord.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.hnc.Discord
+Weather	file:///System/Applications/Weather.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.weather
+News	file:///System/Applications/News.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.news
+Spotify	file:///Applications/Spotify.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.spotify.client
+Podcasts	file:///System/Applications/Podcasts.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.podcasts
+Screen Sharing	file:///System/Applications/Utilities/Screen%20Sharing.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.ScreenSharing
+iPhone Mirroring	file:///System/Applications/iPhone%20Mirroring.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.ScreenContinuity
+Steam	file:///Applications/Steam.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.valvesoftware.steam
+App Store	file:///System/Applications/App%20Store.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.AppStore
+System Settings	file:///System/Applications/System%20Settings.app/	persistentApps	/Users/mike/Library/Preferences/com.apple.dock.plist	com.apple.systempreferences
+Screenshots	file:///Users/mike/Screenshots/	persistentOthers	/Users/mike/Library/Preferences/com.apple.dock.plist	
+Downloads	file:///Users/mike/Downloads/	persistentOthers	/Users/mike/Library/Preferences/com.apple.dock.plist
